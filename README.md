@@ -2,7 +2,7 @@
 
  
 
-<img align="center" src="https://github.com/user-attachments/assets/93b910bb-97da-407e-9fb9-b54d84fa3630" >
+<img align="center" src="https://github.com/user-attachments/assets/86a05c7b-4d7b-47c2-993a-850c01bd7200" >
 <!--
 **meh-ka/meh-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
