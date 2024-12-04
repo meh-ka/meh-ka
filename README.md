@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img align="center" src="https://github.com/user-attachments/assets/acd10ae7-ab83-4797-af18-756f834577f4" >
 <!--
 **meh-ka/meh-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
