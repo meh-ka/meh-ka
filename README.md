@@ -3,6 +3,8 @@
  
 
 <img align="center" src="https://github.com/user-attachments/assets/86a05c7b-4d7b-47c2-993a-850c01bd7200" >
+
+
  # 🌟 Bienvenue dans le Monde Technologique 🌍
 
 Les technologies transforment notre monde à une vitesse **exponentielle**.  
