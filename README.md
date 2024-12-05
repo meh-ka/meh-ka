@@ -16,7 +16,6 @@ Les machines deviennent de plus en plus puissantes, franchissant les frontières
 
 🔑 **Il existe une clé : un langage universel pour communiquer avec les machines — le code.**  
 Maîtriser le code, c’est ouvrir la voie à la création et à l’innovation.  
-
 Mais ce n’est qu’une partie du puzzle :  
 **Les systèmes et réseaux** forment l’épine dorsale de cette révolution numérique.  
 Comprendre leur fonctionnement, leur architecture et leur sécurité est essentiel pour bâtir un monde technologique robuste et interconnecté.  
@@ -33,6 +32,8 @@ Comprendre leur fonctionnement, leur architecture et leur sécurité est essenti
 ---
 
 ### 🖥️ **Codez. Connectez. Innovez.**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) CSS3	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 <!--
 **meh-ka/meh-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
